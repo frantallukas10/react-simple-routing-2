@@ -37,7 +37,7 @@ components/common:
 - [./src/components/common/tableBody.jsx](./src/components/common/tableBody.jsx)<br>
 - [./src/components/common/tableHeader.jsx](./src/components/common/tableHeader.jsx)<br>
 
-## Project screenshot:
+## Project screenshots:
 
 ![example](./images/0.png)<br>
 ![example](./images/1.png)<br>
