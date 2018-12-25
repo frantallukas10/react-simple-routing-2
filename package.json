@@ -1,5 +1,6 @@
 {
-  "name": "vidly",
+  "name": "react-simple-routing-2",
+  "author": "Ing. Lukáš Frantál",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
